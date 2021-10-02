@@ -1,0 +1,7 @@
+print(10+5)
+print(10-5)
+print(10*5)
+print(10/5)
+print(int(10/5))
+print(float(10/5))
+print(complex(10/5))
