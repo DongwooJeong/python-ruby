@@ -30,3 +30,12 @@
 * pi value: Math::PI 
     * Be careful of capitalization
 ***
+## String
+### python
+* use print()
+* quotes "" or ''
+* should be consistent
+* if you want to express quotes inside the string, use a different quote from the quotes used for the string
+### ruby
+* same syntax with python
+***
