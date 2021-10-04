@@ -36,6 +36,9 @@
 * quotes "" or ''
 * should be consistent
 * if you want to express quotes inside the string, use a different quote from the quotes used for the string
+* you can combine each string using +
+* you can print a string several times using *
+* string[n] will print the (n-1)th letter in the string
 ### ruby
 * same syntax with python
 ***
