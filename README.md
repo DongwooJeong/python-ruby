@@ -33,12 +33,25 @@
 ## String
 ### python
 * use print()
+#### using quotes
 * quotes "" or ''
 * should be consistent
 * if you want to express quotes inside the string, use a different quote from the quotes used for the string
+#### using operators
 * you can combine each string using +
 * you can print a string several times using *
-* string[n] will print the (n-1)th letter in the string
+* 'string'[n] will print the (n-1)th letter in the string
+#### editing strings
+* 'string'.capitalize() - capitalize the first letter of the string
+* 'string'.upper - capitalize the whole string
+* 'string'.__len__ or len('string') - print the length of the string by number
+* 'string'.replace('stringa','stringb') - replace 'stringa' inside the string with 'stringb'
 ### ruby
+#### using quotes, operators
 * same syntax with python
+#### editing strings
+* 'string'.capitalize() - capitalize the first letter of the string
+* 'string'.upcase() - capitalize the whole string
+* 'string'.length() - print the length of the string by number
+* 'string'.sub('stringa','stringb') - replace 'stringa' inside the string with 'stringb'
 ***
