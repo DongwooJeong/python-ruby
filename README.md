@@ -46,12 +46,21 @@
 * 'string'.upper - capitalize the whole string
 * 'string'.__len__ or len('string') - print the length of the string by number
 * 'string'.replace('stringa','stringb') - replace 'stringa' inside the string with 'stringb'
+#### special characters
+* \: escape the role of the following sign, \ can also escape the role of \ itself
+* \n: create new line within the string
+* \t: create tab within the string
+* \a: alert
+* " and ' have the same role
 ### ruby
 #### using quotes, operators
-* same syntax with python
+* same syntax as python
 #### editing strings
 * 'string'.capitalize() - capitalize the first letter of the string
 * 'string'.upcase() - capitalize the whole string
 * 'string'.length() - print the length of the string by number
 * 'string'.sub('stringa','stringb') - replace 'stringa' inside the string with 'stringb'
+#### special characters
+* \, \n, \t, \a: same as python
+* " and ' have slightly different role
 ***
