@@ -52,6 +52,9 @@
 * \t: create tab within the string
 * \a: alert
 * " and ' have the same role
+#### operator +
+* + is arithmetic operator between numbers
+* + is concatenation operator between strings
 ### ruby
 #### using quotes, operators
 * same syntax as python
@@ -63,4 +66,6 @@
 #### special characters
 * \, \n, \t, \a: same as python
 * " and ' have slightly different role
+#### operator +
+* same as python
 ***
