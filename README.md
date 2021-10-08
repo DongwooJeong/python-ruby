@@ -69,3 +69,12 @@
 #### operator +
 * same as python
 ***
+## variable
+### python
+#### basic grammar
+* how to declare variable: variablename = data
+* python automatically sets the data type of the variable based on the assigned data 
+### ruby
+#### basic grammar
+* same as python
+***
