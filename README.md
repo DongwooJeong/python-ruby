@@ -73,8 +73,18 @@
 ### python
 #### basic grammar
 * how to declare variable: variablename = data
-* python automatically sets the data type of the variable based on the assigned data 
+* python automatically sets the data type of the variable based on the assigned data
+#### string variable
+* variablename = "myname"
+* use "," or "+" to concatenate
+    + "," makes an extra space
+
 ### ruby
 #### basic grammar
 * same as python
+#### string variable
+* same as python
+    + "," makes a linebreak
+    + "+" makes an extra space
+
 ***
