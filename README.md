@@ -78,7 +78,9 @@
 * variablename = "myname"
 * use "," or "+" to concatenate
     + "," makes an extra space
-
+#### calculation
+* variablename = number
+* set equation using variable name
 ### ruby
 #### basic grammar
 * same as python
@@ -86,5 +88,8 @@
 * same as python
     + "," makes a linebreak
     + "+" makes an extra space
-
+#### calculation
+* same as python
+    + gets: input() in python
+    + to_i: change string into integer
 ***
