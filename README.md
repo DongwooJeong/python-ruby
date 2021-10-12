@@ -93,3 +93,10 @@
     + gets: input() in python
     + to_i: change string into integer
 ***
+## comparison_boolean
+### python
+* boolean: True / False
+* ==,>,<
+### ruby
+* boolean: true / false
+***

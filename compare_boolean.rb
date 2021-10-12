@@ -1,0 +1,9 @@
+a=1
+b=1
+print(a==b)
+puts(1==1)
+puts(1==2)
+puts(1>2)
+puts(1<2)
+puts(true)
+puts(false)
