@@ -100,3 +100,14 @@
 ### ruby
 * boolean: true / false
 ***
+## conditional statements
+### python
+* if True: - execute what comes after
+* if False: - do not execute anything
+* code to be executed in conditional statements have indent 
+### ruby
+* if true - (without colon) execute what comes after
+* if false - do not execute anything
+* end - end the conditional statement
+* can also make indent for legibility of the code
+***
