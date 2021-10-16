@@ -104,10 +104,12 @@
 ### python
 * if True: - execute what comes after
 * if False: - do not execute anything
-* code to be executed in conditional statements have indent 
+* codes to be executed in conditional statements have indent
+* can use comparison operator to make conditions
 ### ruby
 * if true - (without colon) execute what comes after
 * if false - do not execute anything
 * end - end the conditional statement
-* can also make indent for legibility of the code
+* not necessary, but can also make indent for legibility of the code
+* can use comparison operator to make conditions
 ***
