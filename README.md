@@ -106,10 +106,12 @@
 * if False: - do not execute anything
 * codes to be executed in conditional statements have indent
 * can use comparison operator to make conditions
+* else - can combine conditional statements that are closely related (True/False inverse), in order to make codes more concise
 ### ruby
 * if true - (without colon) execute what comes after
 * if false - do not execute anything
 * end - end the conditional statement
 * not necessary, but can also make indent for legibility of the code
 * can use comparison operator to make conditions
+* else - same as python
 ***
