@@ -117,3 +117,11 @@
 * else - same as python
 * else if - elsif
 ***
+## Input-Output
+### python
+* input() - get external value
+    + can have data inside () ex) input("please enter.")
+* .upper - capitalize
+### ruby
+* gets.chomp() - input in python
+* .upcase - capitalize
