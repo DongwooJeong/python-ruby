@@ -122,6 +122,8 @@
 * input() - get external value
     + can have data inside () ex) input("please enter.")
 * .upper - capitalize
+* try not to name variable that is already in Python ex) input()
+* match the data type when getting input
 ### ruby
 * gets.chomp() - input in python
 * .upcase - capitalize
