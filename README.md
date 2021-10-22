@@ -127,3 +127,5 @@
 ### ruby
 * gets.chomp() - input in python
 * .upcase - capitalize
+## Logical Operator
+* And/Or/Not
