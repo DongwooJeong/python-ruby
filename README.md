@@ -127,5 +127,16 @@
 ### ruby
 * gets.chomp() - input in python
 * .upcase - capitalize
+***
 ## Logical Operator
 * And/Or/Not
+***
+## Comment
+### python
+* #: does not execute the following line
+    + can be used as a comment for readers of the code 
+* ''': does not execute the lines between ```, not recommended
+    + means to express several lines of a string
+### ruby
+* same as python
+    + =begin ~ =end: works like ''' in python, but not recommended as well
