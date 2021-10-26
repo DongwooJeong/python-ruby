@@ -140,3 +140,16 @@
 ### ruby
 * same as python
     + =begin ~ =end: works like ''' in python, but not recommended as well
+***
+## Container
+### python
+* List: a container in python that can store multiple data
+    + can store different data type in one list
+    + index: the number of position of an element in a list
+    + listname[i]: shows the element according to the list
+        - listname[i] = newelement: replace the existing element at i with newelement
+* type(A): shows the data type of A
+### ruby
+* Array: same as a list in python
+* A.class: shows the data type of A
+***
