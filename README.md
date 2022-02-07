@@ -153,3 +153,6 @@
 * Array: same as a list in python
 * A.class: shows the data type of A
 ***
+## Function
+### python
+### ruby
