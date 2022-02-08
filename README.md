@@ -154,5 +154,25 @@
 * A.class: shows the data type of A
 ***
 ## Function
+* Function: modules of code that accomplish a specific task
+    + can be used over and over again
 ### python
+* Create a function
+```python
+def function_name()
+    # content of the function
+    # lines of codes
+```
+* Implement the function
+```python
+function_name()
+```
 ### ruby
+* Create a function
+```ruby
+def function_name()
+    # content of the function
+end
+```
+* Implement the function
+    + same as python
