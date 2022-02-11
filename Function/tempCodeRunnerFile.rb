@@ -1,6 +1,4 @@
-def f8
-    a = 1
-    b = 2
-    a + b
+def f4(a1)
+    return a1
 end
-puts f8
+puts(f4('f4'))

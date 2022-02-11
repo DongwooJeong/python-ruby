@@ -162,6 +162,7 @@
 def function_name()
     # content of the function
     # lines of codes
+# return ~
 ```
 * Implement the function
 ```python
@@ -172,7 +173,9 @@ function_name()
 ```ruby
 def function_name()
     # content of the function
+    # return ~
 end
 ```
 * Implement the function
     + same as python
+*  2.rb file has several different ways of creating and implementing fuctions
