@@ -178,4 +178,10 @@ end
 ```
 * Implement the function
     + same as python
-*  2.rb file has several different ways of creating and implementing fuctions
+* 2.rb file has several different ways of creating and implementing fuctions
+***
+## block
+### ruby
+* code block
+* Following some specific functions like *times*, *upto*, code block is repeatedly executed.
+***
