@@ -182,6 +182,9 @@ end
 ***
 ## block
 ### ruby
-* code block
-* Following some specific functions like *times*, *upto*, code block is repeatedly executed.
+* code block: Following some specific functions like *times*, *upto*, a code block is repeatedly executed.
+* more effective code than a typical loop using while
+```ruby
+5.times(){|i| puts i}
+```
 ***
