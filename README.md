@@ -187,4 +187,8 @@ end
 ```ruby
 5.times(){|i| puts i}
 ```
+* each(): For each element in the array, repeatedly execute the code in the following block 
+    + more intuitive than loop
+* delete_if(): Delete elements in the array according to the conditional statements in the code block
+    + Use brackets if the code ends in one line, and do-end if it comes across multiple lines
 ***

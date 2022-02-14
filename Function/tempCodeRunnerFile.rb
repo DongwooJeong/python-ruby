@@ -1,5 +1,3 @@
-i = 0
-while i < 5
-  puts i
-  i = i + 1
-end
+arr = [1, 3, 56, 7, 13 , 52]
+
+arr.delete_if(){|item| puts item}
