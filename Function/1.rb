@@ -8,3 +8,8 @@ def a3()
 end
 puts(a3())
 puts('---')
+def a(num)
+    return 'a'*num
+end
+puts a(3)
+puts('---')
