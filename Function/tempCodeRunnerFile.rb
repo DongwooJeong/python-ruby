@@ -1,4 +1,5 @@
-def a(num)
-    return 'a'*num
+def make_string(str, num)
+    return str*num
 end
-puts a(3)
+puts(make_string('a', 3))
+puts('---')
