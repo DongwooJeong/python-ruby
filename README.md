@@ -180,7 +180,7 @@ end
     + same as python
 * 2.rb file has several different ways of creating and implementing fuctions
 ***
-## block
+## Block
 ### ruby
 * code block: Following some specific functions like *times*, *upto*, a code block is repeatedly executed.
 * more effective code than a typical loop using while
@@ -192,3 +192,16 @@ end
 * delete_if(): Delete elements in the array according to the conditional statements in the code block
     + Use brackets if the code ends in one line, and do-end if it comes across multiple lines
 ***
+## Module
+Module: a file containing codes to be imported to another program
+### python
+* built-in module example: math
+```python
+import math
+math.ceil(2.1)
+```
+### ruby
+* built-in module example: Math
+```ruby
+Math.sqrt(16)
+```
