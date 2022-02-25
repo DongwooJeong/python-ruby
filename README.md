@@ -193,7 +193,8 @@ end
     + Use brackets if the code ends in one line, and do-end if it comes across multiple lines
 ***
 ## Module
-Module: a file containing codes to be imported to another program
+* Module: a file containing codes to be imported to another program
+* Without modules, programs with long codes will lead to a name conflict problem
 ### python
 * built-in module example: math
 ```python
