@@ -201,8 +201,26 @@ end
 import math
 math.ceil(2.1)
 ```
+* from filename(module) import function: import the function from module to another file to use
+```python
+from egoing import a
+print(a())
+```
+* import filename(module): import every function in the module
+    + need to indicate the module before the function
+```python
+import egoing
+print(egoing.a())
+```
+* import filename(module) as x: For convenience, use a different name(x) from the actual name of the imported module or the function when using it
+```python
+import egoing as k
+print(k.a())
+```
 ### ruby
 * built-in module example: Math
 ```ruby
 Math.sqrt(16)
 ```
+
+
