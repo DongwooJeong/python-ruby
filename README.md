@@ -69,7 +69,7 @@
 #### operator +
 * same as python
 ***
-## variable
+## Variable
 ### python
 #### basic grammar
 * how to declare variable: variablename = data
@@ -93,14 +93,14 @@
     + gets: input() in python
     + to_i: change string into integer
 ***
-## comparison_boolean
+## Comparison_boolean
 ### python
 * boolean: True / False
 * ==,>,<
 ### ruby
 * boolean: true / false
 ***
-## conditional statements
+## Conditional statements
 ### python
 * if True: - execute what comes after
 * if False: - do not execute anything
@@ -196,11 +196,13 @@ end
 * Module: a file containing codes to be imported to another program
 * Without modules, programs with long codes will lead to a name conflict problem
 ### python
-* built-in module example: math
-```python
-import math
-math.ceil(2.1)
-```
+* built-in module: python standard library
+    + The library contains built-in modules (written in C) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Python programmers, as well as modules written in Python that provide standardized solutions for many problems that occur in everyday programming [python documentation](https://docs.python.org/3/library/)
+        - example: math
+        ```python
+        import math
+        math.ceil(2.1)
+        ```
 * from filename(module) import function: import the function from module to another file to use
 ```python
 from egoing import a
@@ -222,5 +224,31 @@ print(k.a())
 ```ruby
 Math.sqrt(16)
 ```
-
+* how to create a module
+    + declare module name: module Module_name ~ end
+        - fist alphabet of the module name is capitalized
+    + make function within the mudule module's function: module_function()
+```ruby
+module Egoing
+    module_function()
+    def a()
+        return 'a'
+    end
+end
+```
+* how to import module from a different file
+    + require('Module_name') or require 'Module_name'
+        - error due to the directory
+    + require(./'Module_name')
+        - .: current directory
+            * find the module from the directory of the file to execute
+            * editor error due to directory
+    + require_relative './Module_name'
+        - relative: execute the file in the same directory
+```ruby
+require 'Egoing'
+require './Egoing'
+require_relative './Egoing'
+puts(Egoing.a())
+```
 
