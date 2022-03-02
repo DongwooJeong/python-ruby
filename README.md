@@ -195,6 +195,7 @@ end
 ## Module
 * Module: a file containing codes to be imported to another program
 * Without modules, programs with long codes will lead to a name conflict problem
+* Modules can eliminate any duplication problem of using the same function placed in the different files, and increase recyclability of the function
 ### python
 * built-in module: python standard library
     + The library contains built-in modules (written in C) that provide access to system functionality such as file I/O that would otherwise be inaccessible to Python programmers, as well as modules written in Python that provide standardized solutions for many problems that occur in everyday programming [python documentation](https://docs.python.org/3/library/)
