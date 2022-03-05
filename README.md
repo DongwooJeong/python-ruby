@@ -252,4 +252,7 @@ require './Egoing'
 require_relative './Egoing'
 puts(Egoing.a())
 ```
-
+## Object Oriented Programming
+* use an object to create a better code
+### python
+### ruby
